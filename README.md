@@ -7,4 +7,5 @@ This repositiory contains data of several Coursera courses I have done/am doing.
 * Deep Learning Specialization - Stanford University
     * Notes of each week are prepared by [Mahmoud Badry](https://github.com/mbadry1)
 
-There is also Cheatsheets directory containing important cheatsheets that i find useful.
+There is also a Cheatsheets directory containing important cheatsheets that i find useful.
+The folder TF_Bascics contains basics of Tensorflow 2 learnde from [Aladdin Persson's](https://www.youtube.com/c/AladdinPersson) Youtube.
